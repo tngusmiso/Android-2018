@@ -1,0 +1,4 @@
+#Sat Oct 13 19:26:28 KST 2018
+base.0=/Users/lim/skhu/2018/2nd/MobileProgramming/Android-2018/Chapter4/LayoutInfaltionTest2/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
